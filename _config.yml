@@ -15,7 +15,7 @@ timezone: Asia/ShangHai
 admin:
   username: yuanzhiroc
   password_hash: $2a$10$r00KKjk1ktFAMHoVKCQwkeWtn0YKApmN1zsLeDBlVDyMFrMaEq7qW
-  secret: yzpOtss.com
+  secret: yzp520tss.cOm
 #搜索
 #search:
 #  path: search.xml
