@@ -1,9 +1,15 @@
 ---
 title: python 逆向生成Models求
 date: 2018-09-08 10:47:14
-categories: python, Django, SQL
-tags: python, Django, SQL 
-description:python 逆向生成Models
+categories: 
+	- python
+	- Django
+	- SQL
+tags:
+	- python
+	- Django
+	- SQL 
+description: python 逆向生成Models
 ---
 # Django
 

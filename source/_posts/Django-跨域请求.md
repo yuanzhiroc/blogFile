@@ -1,9 +1,13 @@
 ---
 title: Django 跨域请求
 date: 2018-09-07 13:47:04
-categories: python, Django
-tags: python, Django 
-description:Django 跨域请求
+categories: 
+	- python
+	- Django
+tags: 
+	- python
+	- Django 
+description: Django 跨域请求
 ---
 # 问题原因
 暂时也没有了解问题的原因是怎样的，直接说解决方法吧

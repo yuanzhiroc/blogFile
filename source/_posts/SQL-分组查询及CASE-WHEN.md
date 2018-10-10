@@ -3,7 +3,7 @@ title: SQL 分组查询
 date: 2018-09-12 14:47:04
 categories: SQL
 tags: SQL 
-description:SQL分组查询
+description: SQL分组查询
 ---
 # 使用场景
 在出租日志表中查询出今天所有用户的使用时长。用户使用时长不固定，次数不固定

@@ -3,7 +3,7 @@ title: SQL UPDATE更新多条记录中的一条
 date: 2018-09-07 14:47:04
 categories: SQL
 tags: SQL 
-description:SQL UPDATE更新多条记录中的一条
+description: SQL UPDATE更新多条记录中的一条
 ---
 
 # 问题环境
